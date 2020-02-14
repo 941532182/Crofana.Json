@@ -1,0 +1,6 @@
+E:\C#\Crofana.Json\Crofana.Json\bin\Debug\Crofana.Json.dll
+E:\C#\Crofana.Json\Crofana.Json\bin\Debug\Crofana.Json.pdb
+E:\C#\Crofana.Json\Crofana.Json\obj\Debug\Crofana.Json.csprojAssemblyReference.cache
+E:\C#\Crofana.Json\Crofana.Json\obj\Debug\Crofana.Json.csproj.CoreCompileInputs.cache
+E:\C#\Crofana.Json\Crofana.Json\obj\Debug\Crofana.Json.dll
+E:\C#\Crofana.Json\Crofana.Json\obj\Debug\Crofana.Json.pdb
